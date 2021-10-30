@@ -14,8 +14,8 @@ class script(object):
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+<b>DEV:</b>
+- <a href=https://t.me/ITZz_me_17>Anderson</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
